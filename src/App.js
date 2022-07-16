@@ -7,7 +7,7 @@ function App() {
             <TopMenu />
             <div class="barratopo"></div>
             <Desktop />
-        </div>
+        </div>        
     )
 }
 export default App;
