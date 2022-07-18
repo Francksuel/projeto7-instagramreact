@@ -118,6 +118,13 @@ strong {
 .foto img {
     width: 100%;
 }
+.md.hydrated.dontLiked{
+    color: blue;   
+ }
+
+ .md.hydrated.clicado{
+   color: red;    
+} 
 
 .interacao {
     display: flex;
