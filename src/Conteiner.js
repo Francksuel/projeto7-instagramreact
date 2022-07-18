@@ -1,11 +1,11 @@
 import Stories from "./Stories";
 import Feed from "./Feed";
-function Conteiner(){
+function Conteiner() {
     return (
-<div class="conteudo">
-<Stories/>
-<Feed />
-</div>
+        <div class="conteudo">
+            <Stories />
+            <Feed />
+        </div>
     )
 }
 export default Conteiner;

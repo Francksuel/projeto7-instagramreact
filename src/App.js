@@ -13,6 +13,3 @@ function App() {
     )
 }
 export default App;
-
-
-//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
